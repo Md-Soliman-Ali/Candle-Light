@@ -1,4 +1,0 @@
-conda env list
-conda activate project
-
-tensorboard --logdir=.
